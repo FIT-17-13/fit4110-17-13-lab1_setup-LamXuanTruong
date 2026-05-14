@@ -4,12 +4,12 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 
 ## Sinh viên điền thông tin
 
-- Họ tên:
-- Mã sinh viên:
-- Nhóm:
-- Vai trò dự kiến trong nhóm:
-- Hệ điều hành:
-- Ghi chú:
+- Họ tên: Lâm Xuân Trường 
+- Mã sinh viên: 1771020704
+- Nhóm: Nhóm 3 
+- Vai trò dự kiến trong nhóm: Thành Viên
+- Hệ điều hành: Windows 
+- Ghi chú: Các thành viên khác: Vũ Bích Hợp, Đỗ Quang Huy, Nguyễn Tùng Lâm
 
 ## Các file minh chứng nên có
 
