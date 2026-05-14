@@ -139,10 +139,10 @@ flowchart TD
     %% Ranh giới của A2
     subgraph A2_Boundary ["📦 Ranh Giới: Camera Stream Service (Nhóm A2)"]
         direction TB
-        API_GW[API Router & Webhook Receiver]
-        PreProcess[Mô-đun Tiền Xử Lý\n(Lọc tĩnh, phát hiện chuyển động)]
-        FrameBuffer[(Lưu Trữ Tạm Thời\nRedis/Local Storage)]
-        StreamHandler[Trình Quản Lý\nLuồng Stream]
+        API_GW["API Router & Webhook Receiver"]
+        PreProcess["Mô-đun Tiền Xử Lý<br>(Lọc tĩnh, phát hiện chuyển động)"]
+        FrameBuffer[("Lưu Trữ Tạm Thời<br>Redis/Local Storage")]
+        StreamHandler["Trình Quản Lý<br>Luồng Stream"]
         
         API_GW -->|Lưu ảnh mới| FrameBuffer
         API_GW -->|Chuyển dữ liệu xử lý| PreProcess
